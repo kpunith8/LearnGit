@@ -2,3 +2,12 @@ New changes have benn added by USER 2
 Change by User 1
 Change by User 2
 
+// Adding a generic method to perform addition of two number
+public int sumOfTwoNumbers(int firstNumber, int secondNumber)
+{
+	int sumOfTwoNumbers = 0;
+
+	sumOfTwoNumbers = firstNumber + secondNumber;
+
+	retunn sumOfTwoNumbers;
+}
