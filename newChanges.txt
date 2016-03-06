@@ -5,8 +5,10 @@ Change by User 2
 // Adding a generic method to perform addition of two number
 public int sumOfTwoNumbers(int firstNumber, int secondNumber)
 {
+	/* Variable to store the sum of two numbers */
 	int sumOfTwoNumbers = 0;
 
+	/* Calculating the sum */
 	sumOfTwoNumbers = firstNumber + secondNumber;
 
 	retunn sumOfTwoNumbers;
