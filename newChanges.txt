@@ -1,8 +1,5 @@
-New changes have benn added by USER 2
-Change by User 1
-Change by User 2
 
-// Adding a generic method to perform addition of two number
+/* Adding a method to perform addition of two numbers */
 public int sumOfTwoNumbers(int firstNumber, int secondNumber)
 {
 	/* Variable to store the sum of two numbers */
@@ -13,3 +10,7 @@ public int sumOfTwoNumbers(int firstNumber, int secondNumber)
 
 	retunn sumOfTwoNumbers;
 }
+
+/* Adding method to perform subtraction of teo numbers */
+
+
