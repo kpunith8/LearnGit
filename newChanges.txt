@@ -20,7 +20,8 @@ public int sumOfTwoNumbers(int firstNumber, int secondNumber)
 
 // Method to perform Subtraction
 public int difference(int firstNumber, int secondNumber){
-	
+int diff = firstNumber - secondNumber;
+	return diff;
 }
 
 // Method to perform multiplication
