@@ -14,7 +14,10 @@ public int sumOfTwoNumbers(int firstNumber, int secondNumber)
 /* Adding method to perform subtraction of teo numbers */
 
 // New line added
-// Another Line added - Feature 1 is updated
+
+// Another Line added - Feature 1 is updated, testing merge conflicts
 // One more line added in feature	
+
+
 
 
