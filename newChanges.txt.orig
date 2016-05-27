@@ -1,0 +1,65 @@
+
+/* Adding a method to perform addition of two numbers */
+public int sumOfTwoNumbers(int firstNumber, int secondNumber)
+{
+	/* Variable to store the sum of two numbers */
+	int sumOfTwoNumbers = 0;
+
+	/* Calculating the sum */
+	sumOfTwoNumbers = firstNumber + secondNumber;
+
+	retunn sumOfTwoNumbers;
+}
+
+/* Adding method to perform subtraction of teo numbers */
+
+// New line added
+
+// Another Line added - Feature 1 is updated, testing merge conflicts
+// One more line added in feature	
+
+// Method to perform Subtraction
+public int difference(int firstNumber, int secondNumber){
+return firstNumber - secondNumber;
+}
+
+// Method to perform multiplication
+public int multiplication(int a, int b){
+	
+}
+// Modifying the same file and line that is not touched by feature 1 
+// Test started
+
+// Addind few lines (Adding few more and more content )to test rebase 
+
+<<<<<<< HEAD
+Check this line as well
+=======
+// Feature 1 is adding some data
+>>>>>>> New content added
+
+// Feature 1 is adding some data
+// Feature 1 again adding some data
+Check this line for merge conflicts
+// Feature updated again
+
+
+
+// Committing using git add -p
+// Commit more changes
+// Add more content
+
+
+// tested
+
+
+// Not tested
+
+
+// Again for test
+
+// Need to add more data to test rebase
+Finally testing the data
+
+// Second commit for rebase so that one history can be rebased oved feature
+
