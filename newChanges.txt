@@ -18,6 +18,10 @@ public int sumOfTwoNumbers(int firstNumber, int secondNumber)
 // Another Line added - Feature 1 is updated, testing merge conflicts
 // One more line added in feature	
 
+// Method to perform Subtraction
+public int difference(int firstNumber, int secondNumber){
+	
+}
 
 
 
