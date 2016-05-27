@@ -21,7 +21,7 @@ public int sumOfTwoNumbers(int firstNumber, int secondNumber)
 // Method to perform Subtraction
 public int difference(int firstNumber, int secondNumber){
 return firstNumber - secondNumber;
-	
+
 }
 
 // Method to perform multiplication
