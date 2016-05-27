@@ -49,12 +49,15 @@ Check this line for merge conflicts
 // Commit more changes
 // Add more content
 
+// Addind few lines to test rebase 
 
 // tested
 
 
+// Feature 1 is adding some data
 // Not tested
-
+// Feature 1 again adding some data
+// Feature updated again
 
 // Again for test
 

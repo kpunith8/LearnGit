@@ -30,17 +30,26 @@ public int multiplication(int a, int b){
 // Modifying the same file and line that is not touched by feature 1 
 // Test started
 
+<<<<<<< HEAD
 // Addind few lines (Adding few more and more content )to test rebase 
+=======
+// Addind few lines to test rebase 
+>>>>>>> squashed commits
 
 Check this line as well
 
-<<<<<<< HEAD
 // Feature 1 is adding some data
 // Feature 1 again adding some data
 Check this line for merge conflicts
 // Feature updated again
 
+// Feature 1 is adding some data
+// Feature 1 again adding some data
+// Feature updated again
 
+// Feature 1 is adding some data
+// Feature 1 again adding some data
+// Feature updated again
 
 // Committing using git add -p
 // Commit more changes
@@ -54,14 +63,6 @@ Check this line for merge conflicts
 
 
 // Again for test
-=======
-
-
-// Feature 1 is adding some data
-// Feature 1 again adding some data
-// Feature updated again
-
->>>>>>> Little more data added with old date
 
 // Need to add more data to test rebase
 Finally testing the data
