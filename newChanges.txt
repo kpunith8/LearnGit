@@ -21,11 +21,6 @@ public int sumOfTwoNumbers(int firstNumber, int secondNumber)
 // Method to perform Subtraction
 public int difference(int firstNumber, int secondNumber){
 return firstNumber - secondNumber;
-<<<<<<< HEAD
-
-=======
-	
->>>>>>> 71493a0... Feature2 updates
 }
 
 // Method to perform multiplication
@@ -33,4 +28,12 @@ public int multiplication(int a, int b){
 	
 }
 
+
+
+
+
+
+
+
+//
 
