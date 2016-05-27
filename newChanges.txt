@@ -30,6 +30,7 @@ public int multiplication(int a, int b){
 // Modifying the same file and line that is not touched by feature 1 
 // Test started
 
+// Addind few lines to test rebase 
 
 
 
