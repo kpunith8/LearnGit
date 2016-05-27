@@ -41,6 +41,10 @@ Check this line for merge conflicts
 
 
 
+// Feature 1 is adding some data
+// Feature 1 again adding some data
+// Feature updated again
+
 // Committing using git add -p
 // Commit more changes
 // Add more content
