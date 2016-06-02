@@ -40,5 +40,16 @@ public int multiplication(int a, int b){
 
 
 
-//
+// Committing using git add -p
+// Commit more changes
+// Add more content
+
+
+// tested
+
+
+// Not tested
+
+
+// Again for test
 
