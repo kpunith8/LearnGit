@@ -30,12 +30,13 @@ public int multiplication(int a, int b){
 // Modifying the same file and line that is not touched by feature 1 
 // Test started
 
-// Addind few lines to test rebase 
+// Addind few lines (Adding few more and more content )to test rebase 
 
-
+Check this line as well
 
 // Feature 1 is adding some data
 // Feature 1 again adding some data
+Check this line for merge conflicts
 // Feature updated again
 
 
@@ -53,3 +54,10 @@ public int multiplication(int a, int b){
 
 // Again for test
 
+// Need to add more data to test rebase
+Finally testing the data
+
+// Second commit for rebase so that one history can be rebased oved feature
+
+Adding few more lines to test adding files after the squash to try squash the new commits over old squash
+new
