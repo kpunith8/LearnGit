@@ -24,7 +24,8 @@ return firstNumber - secondNumber;
 }
 
 // Method to perform multiplication
-public int multiplication(int a, int b){
+// Added another param
+public int multiplication(int a, int b, int c){
 	
 }
 // Modifying the same file and line that is not touched by feature 1 
